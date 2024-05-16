@@ -60,6 +60,11 @@
 
 <br>
 
+## :construction: 프로젝트 아키택처
+<img src ="https://github.com/PublicDataContest/.github/assets/103410386/6784b2a0-3618-4c5d-8119-2a5a5227bf24" width="800" height="400"/>
+
+<br><br>
+
 ## 💡 제안 배경 및 출품작 소개
 <img src ="https://github.com/PublicDataContest/.github/assets/103410386/60b115c8-fe65-4f8b-9800-c1bb99531c9d" width="800" height="400"/>
 <img src ="https://github.com/PublicDataContest/.github/assets/103410386/6b5abe06-a334-4bda-9444-963a475702f6" width="800" height="400"/>
