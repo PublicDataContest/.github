@@ -88,7 +88,7 @@
 |---|---|---|
 |Design|곽인아||
 |BE|박종훈|https://github.com/euics|
-|BE|신지훈|https://github.com/lynjun|
+|BE|신지훈|https://github.com/boongseop123|
 |React|봉지수|https://github.com/salmonco|
 
 <br>
